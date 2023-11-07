@@ -1,7 +1,6 @@
 <h1 align="center"> 👽Hello World, I’m Clara!
-```
-  
-```
+
+<h3 align="center">  
 
 <div align="center">
   <a href="https://github.com/a-vortex">
