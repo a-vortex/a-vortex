@@ -7,7 +7,7 @@ I'm 19 Years Old, currently graduating in Systems engineering from the Federal U
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=green)](https://www.linkedin.com/in/mccontarinid/)
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=green)](mailto:mccontarinid@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=green)](https://https://discord.com/channels/@avortex_/)
+[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=green)](https://https://discord.com/channels/@avortex/)
 
 ♻**My GitHub Stats**
 
