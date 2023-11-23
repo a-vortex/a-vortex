@@ -1,4 +1,4 @@
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="[https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png](https://pin.it/35xKy2t)">
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="a-vortex/a-vortex/wepik-export-20231123165333EBJo.jpeg">
 
 # 👽 Hello World, I'm Clara!
 I'm 19 Years Old, currently graduating in Systems engineering from the Federal University of Minas Gerais (UFMG), from Belo Horizonte-MG. I'm new in this Technology Scenario, but I'm learning a bit more each day. My interest in programming whas born from game passion, which led me to decide that i want to develop for a living. My hoobies are playing games, especially riot and idie ones, listening to music, watching anime and cartoons and sometimes I draw.
